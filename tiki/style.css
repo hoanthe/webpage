@@ -1,0 +1,18 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+}
+
+a img {
+    height: 20px;
+    width: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    background-color: #29f;
+}
